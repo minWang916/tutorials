@@ -1,3 +1,3 @@
-# tutorials
+# Deploy Django project to AWS EC2 with CICD configurations
 
-This is where I keep my collections of videos, websites or articles that I consider to be useful.
+https://www.youtube.com/watch?v=pXNB8uAGlx8&t=371s
